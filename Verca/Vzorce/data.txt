@@ -1,0 +1,8 @@
+3 6 z
+a b c
+d = e + fn
+fn = a - d
+g = z / a
+z = fn + d
+d = e - b
+e = a * c
