@@ -12,7 +12,11 @@ def Parser(input):
     date = date.split("-")
     time = time.split(":")
 
-    return datetime.datetime(int(date[0]), int(date[1]), int(date[2]), int(time[0]), int(time[1]), int(time[2]))
+    out = datetime.datetime(int(date[0]), int(date[1]), int(date[2]), int(time[0]), int(time[1]), int(time[2]))
+    print(out)
+
+    return out
+
 
 def GetSortedIndexes(input):
     dates = []
@@ -29,18 +33,14 @@ def GetSortedIndexes(input):
     return output
 
 
-
-input = ["2020-05-15 10:26:57",
-"2020-05-18 17:32:00",
-"2020-04-30 22:11:53",
-"2020-05-18 16:20:15"]
+pocet = int(input())
+input_raw = [input() for _ in range(pocet)]
 
 
-
-vysledky = GetSortedIndexes(input)
+vysledky = GetSortedIndexes(input_raw)
 
 for s in range(0, len(vysledky)):
-    print(f"{input[s]}    {vysledky[s]}")
+    print(f"{input_raw[s]}    {vysledky[s]}")
 
 
 
