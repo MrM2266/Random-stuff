@@ -1,0 +1,9 @@
+Paja;Pavel;Vomacka;5001;kokoti;users,kuchari;502
+Vlada;Vladimir;Maleta;5002;velitele;users,sudo;502
+Popy;Daniel;Popelar;5003;users;sudo;428
+JuroFighter;Jiri;Weiss;5004;users;sudo;528
+Reilly;Marek;Rejl;5005;velitele;users,sudo;525
+Vojta;Vojtech;Bzatek;5006;users;skolni_pluk;402
+Uzivatel;David;Moravec;5007;odpad;skolni_pluk;525
+Nejlepsi_velitel;mjr. Ing. Miloš;Vopravil vlastní rukou;5008;nejlepsi_velitele;skolni_pluk;A4
+

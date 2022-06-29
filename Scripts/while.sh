@@ -1,0 +1,9 @@
+#!bin/bash 
+
+x=1
+
+while [ $x -le 5 ]
+do
+	echo "Opakuji $x krat"
+	x=$(($x + 1)) #nebo x++
+done

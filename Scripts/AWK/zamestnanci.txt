@@ -1,0 +1,11 @@
+Arnost		ucetni	vedouci		45000
+Prochazka	ucetni	referent	25000
+Sypalova	prodej	vedouci		50000
+Zarovka		ucetni	vedouci		46000
+Drbal		prodej	bezny		15000
+Vopravil	prodej	referent	15000
+Brzobed		prodej	referent	23000
+Novak		nakupci	reditel		80000
+
+
+	

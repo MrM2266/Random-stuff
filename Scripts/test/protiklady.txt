@@ -1,0 +1,5 @@
+bila:cerna
+noc:den
+svetlo:tma
+chytry:moravec
+hezky:osklivy

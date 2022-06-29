@@ -77,8 +77,8 @@ def GetInput(file):
     return data
 
 
-input = GetInput("data.txt")
+input = GetInput("data2.txt")
 
 print("Output\n=======")
 for line in input:
-    print(Show(ProcessLine(line)))  
+    print(Show(ProcessLine(line)))
